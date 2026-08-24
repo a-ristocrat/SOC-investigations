@@ -1,0 +1,4 @@
+*.log
+*.tgz
+raw-data/
+botsv3/
