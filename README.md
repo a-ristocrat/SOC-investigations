@@ -34,9 +34,9 @@ are my own work.
 | # | Title | ATT&CK | Verdict |
 |---|-------|--------|---------|
 | 1 | [SSH Port Probe on Production EC2](incidents/incident-01-ssh-port-probe.md) | T1046 | True Positive — attempted recon, unsuccessful |
-| 2 | _(in progress)_ | | |
-| 3 | _(planned)_ | | |
-| 4 | _(planned)_ | | |
+| 2 | [SSH Brute Force / Username Enumeration](incidents/incident-02-ssh-brute-force.md) | T1110.001 | Attempted — brute force failed, no access gained |
+| 3 | [Web Application Reconnaissance](incidents/incident-03-web-recon.md) | T1595 | True Positive — automated recon, no exploitation |
+| 4 | _(in progress — phpMyAdmin / webshell scanner)_ | | |
 | 5 | _(planned)_ | | |
 
 ## Tools & data sources used
